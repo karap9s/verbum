@@ -2,7 +2,6 @@ import AlignDropdown from './AlignDropdown';
 import BackgroundColorPicker from './BackgroundColorPicker';
 import BlockFormatDropdown from './BlockFormatDropdown';
 import BoldButton from './BoldButton';
-import CodeFormatButton from './CodeFormatButton';
 import CodeLanguageDropdown from './CodeLanguageDropdown';
 import FloatingLinkEditor from './FloatingLinkEditor';
 import FontFamilyDropdown from './FontFamilyDropdown';
@@ -21,7 +20,6 @@ export {
   BackgroundColorPicker,
   BlockFormatDropdown,
   BoldButton,
-  CodeFormatButton,
   CodeLanguageDropdown,
   FloatingLinkEditor,
   FontFamilyDropdown,

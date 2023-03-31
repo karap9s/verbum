@@ -7,7 +7,6 @@ import {
   BackgroundColorPicker,
   BlockFormatDropdown,
   BoldButton,
-  CodeFormatButton,
   CodeLanguageDropdown,
   FloatingLinkEditor,
   FontFamilyDropdown,
@@ -46,7 +45,6 @@ export const FullEditor = () => (
         <BoldButton />
         <ItalicButton />
         <UnderlineButton />
-        <CodeFormatButton />
         <InsertLinkButton />
         <TextColorPicker />
         <BackgroundColorPicker />
